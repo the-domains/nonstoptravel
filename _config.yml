@@ -1,14 +1,25 @@
-layout_spectrum: 0.7834888
-typography_spectrum: 0.2741935
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9217443
   brandStrength: 0.6153885
   lightness: 0.8691756
-  rhythmicContrast: 0.8787335
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#141114'
+    - '#EBDF9C'
+    - '#4B373A'
+    - '#CFA377'
+  rhythmicContrast: 0.8787335
+typography_spectrum: 0.05436079
+layout_spectrum: 0.7834888
 name: NonStopTravel
