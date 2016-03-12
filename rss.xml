@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[NonStopTravel]]></title>
         <description><![CDATA[NonStopTravel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nonstoptravel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 18:59:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 19:20:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nonstoptravel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Au revoir France]]></title>
+            <description><![CDATA[<article><h1>Au revoir France</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b98b1269443a83a64bf263c56c39e0ebf8b7afa8.png"></article>]]></description>
+            <link>https://thegrid.ai/nonstoptravel/au-revoir-france/index.html</link>
+            <guid isPermaLink="false">8c41df77-8d46-4208-8be8-388825b485d2</guid>
+            <pubDate>Sat, 12 Mar 2016 19:19:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Marketing Conference at SXSW]]></title>
             <description><![CDATA[<article><h1>Digital Marketing Conference at SXSW</h1><p>Digital in the time of influencers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e5d4121eaa47f55c07fdb217aa07105cbcc8582.jpg"></article>]]></description>
